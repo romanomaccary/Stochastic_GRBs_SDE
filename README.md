@@ -16,7 +16,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/romanomaccary/Stochastic_GRBs_SDE.git
-cd internal_shock_grbs
+cd Stochastic_GRBs_SDE
 ```
 Create and activate the Conda environment:
 
